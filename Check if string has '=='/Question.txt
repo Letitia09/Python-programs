@@ -1,0 +1,9 @@
+Given a string, check if the string has '=='.
+if present,change the '==' to 'compare'.
+Note: you shouldn't change '===' or '='
+
+sample input:
+five==5
+
+sample output:
+five compare 5
