@@ -1,0 +1,19 @@
+Given a password, check if the password is strong, weak or medium.
+
+A strong password has
+  At Least one uppercase letter
+  At Least one lower case letter
+  At least one number
+  At least one symbol (#,*, @, $, %, !, ?) 
+  
+A weak password has maximum of two of the above-mentioned types. 
+Any other password is a medium password
+
+The input takes a string 
+The output prints 'strong, medium or weak' depending on the password
+
+Sample Input:
+abc#
+
+sample output:
+weak
