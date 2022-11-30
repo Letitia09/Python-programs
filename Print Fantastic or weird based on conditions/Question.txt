@@ -1,0 +1,12 @@
+write a program that can take a number 'a' and print 'fantastic' or 'weird' based on the conditions
+if the number is even, print 'fantastic'
+if the number is 1, print 'fantastic'
+if the number is odd and less than 20, print 'fantastic'
+if the number is odd and greater than 20, print 'weird'
+The input contains only one number
+
+sample input:
+24
+
+sample output:
+fantastic
