@@ -1,0 +1,7 @@
+write a progra that takes a string and prints another string formed by every alternative letter in the given string
+
+sample input:
+goodmorning
+
+sample output:
+gomrig
