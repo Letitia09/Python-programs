@@ -1,0 +1,9 @@
+write a program that can take a string and verify if it is a valid email id
+the first line of input takes a string (the email id)
+the program should print 'valid' or 'invalid' depending on the email id
+
+sample input:
+abc@gmail.com
+
+sample output:
+valid
