@@ -1,0 +1,10 @@
+write a program that print the frequency of all consonants (not vowels) in a string
+
+the output should be printed in alphabetical order of letters
+
+sample input:
+hello
+
+sample output:
+h 1
+l 2
