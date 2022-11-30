@@ -1,0 +1,7 @@
+write a program to get a list of elements as input and print it in reverse order
+
+sample input
+4 6 2 8
+
+sample output
+8 2 6 4
