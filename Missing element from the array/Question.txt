@@ -1,0 +1,8 @@
+consider an array /list of numbers, containing n distinct numbers in the range [0,n], return the only number in the range that is missing from the array
+
+sample input
+4 2 0 1
+
+sample output
+3
+here, n=4, and there are all the numbers between 0 and 4 except 3
